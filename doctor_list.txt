@@ -1,0 +1,99 @@
+Dr. Anil Kumar | General Practitioner | Adyar | 4.5
+Dr. Priya Ramesh | ENT Specialist | T. Nagar | 4.7
+Dr. Suresh Balaji | Dermatologist | Anna Nagar | 4.3
+Dr. Kavita Menon | Gastroenterologist | Velachery | 4.6
+Dr. Rajesh Nair | Orthopedist | Mylapore | 4.4
+Dr. Meena Gupta | Allergist | Nungambakkam | 4.8
+Dr. Vikram Seth | Neurologist | Alwarpet | 4.5
+Dr. Lakshmi Devi | Urologist | Chromepet | 4.2
+Dr. Arjun Patel | Pulmonologist | Besant Nagar | 4.6
+Dr. Shalini Iyer | General Practitioner | Tambaram | 4.3
+Dr. Deepak Mohan | Ophthalmologist | Egmore | 4.7
+Dr. Sarita Joseph | Gynecologist | Kilpauk | 4.5
+Dr. Manoj Reddy | Cardiologist | Guindy | 4.8
+Dr. Nisha Varghese | Pediatrician | Perambur | 4.4
+Dr. Karthik Srinivas | General Practitioner | Porur | 4.2
+Dr. Anitha Thomas | Dermatologist | Saidapet | 4.6
+Dr. Pradeep Jain | ENT Specialist | Ashok Nagar | 4.5
+Dr. Rekha Pillai | Gastroenterologist | Madipakkam | 4.3
+Dr. Siddharth Menon | Orthopedist | Kotturpuram | 4.7
+Dr. Geetha Ravi | Allergist | Thiruvanmiyur | 4.6
+Dr. Vinod Shankar | Neurologist | Vadapalani | 4.4
+Dr. Sunita Rao | Urologist | Pallikaranai | 4.5
+Dr. Hari Krishnan | Pulmonologist | Sholinganallur | 4.3
+Dr. Preeti Sharma | General Practitioner | Ambattur | 4.7
+Dr. Rohit Das | Ophthalmologist | Royapettah | 4.6
+Dr. Jaya Lakshmi | Gynecologist | Purasawalkam | 4.5
+Dr. Bala Subramaniam | Cardiologist | OMR (Old Mahabalipuram Road) | 4.8
+Dr. Tina Mathew | Pediatrician | Medavakkam | 4.4
+Dr. Ashok Vijay | General Practitioner | Kodambakkam | 4.6
+Dr. Sneha Kapoor | Dermatologist | Chetpet | 4.5
+Dr. Shanmuga Sundaram | Orthopedist | Adyar | 4.9
+Dr. Uma Devi | General Practitioner | Adyar | 4.4
+Dr. Ravi Shankar | ENT Specialist | Adyar | 4.6
+Dr. Lakshmi Narayanan | Pulmonologist | Adyar | 4.7
+Dr. Prema Krishnan | Gynecologist | Adyar | 4.5
+Dr. Senthil Kumar | Dermatologist | Besant Nagar | 4.6
+Dr. Aarthi Priya | General Practitioner | Thiruvanmiyur | 4.3
+Dr. Mohan Raj | Cardiologist | Mylapore | 4.8
+Dr. Divya Suresh | Pediatrician | Adyar | 4.7
+Dr. Kiran Bala | Neurologist | Besant Nagar | 4.5
+Dr. Vimal Raj | General Practitioner | T. Nagar | 4.6
+Dr. Nithya Balaji | Ophthalmologist | Anna Nagar | 4.4
+Dr. Sanjay Gupta | Orthopedist | Velachery | 4.7
+Dr. Radha Menon | Gynecologist | Nungambakkam | 4.5
+Dr. Arvind Kumar | ENT Specialist | Alwarpet | 4.8
+Dr. Pooja Nair | Dermatologist | Chromepet | 4.3
+Dr. Ganesh Iyer | Pulmonologist | Tambaram | 4.6
+Dr. Swetha Rao | General Practitioner | Egmore | 4.5
+Dr. Krishna Prasad | Cardiologist | Kilpauk | 4.7
+Dr. Ritu Sharma | Pediatrician | Guindy | 4.4
+Dr. Ajay Verma | Neurologist | Porur | 4.6
+Dr. Meera Anand | General Practitioner | Saidapet | 4.5
+Dr. Vikrant Reddy | Urologist | Ashok Nagar | 4.3
+Dr. Sonia Thomas | Gastroenterologist | Madipakkam | 4.7
+Dr. Rahul Menon | Orthopedist | Kotturpuram | 4.5
+Dr. Priyanka Das | Allergist | Thiruvanmiyur | 4.6
+Dr. Naveen Kumar | General Practitioner | Vadapalani | 4.4
+Dr. Anjali Pillai | Dermatologist | Pallikaranai | 4.7
+Dr. Suman Raj | ENT Specialist | Sholinganallur | 4.5
+Dr. Tara Devi | Gynecologist | Ambattur | 4.6
+Dr. Rohan Seth | Pulmonologist | Royapettah | 4.4
+Dr. Kavya Srinivas | General Practitioner | Purasawalkam | 4.7
+Dr. Arun Balaji | Cardiologist | OMR (Old Mahabalipuram Road) | 4.8
+Dr. Neha Joseph | Pediatrician | Medavakkam | 4.5
+Dr. Vijay Shankar | Orthopedist | Kodambakkam | 4.6
+Dr. Shreya Gupta | Ophthalmologist | Chetpet | 4.4
+Dr. Amit Patel | General Practitioner | Anna Nagar | 4.7
+Dr. Lakshmi Priya | ENT Specialist | Velachery | 4.5
+Dr. Karuna Reddy | Dermatologist | Mylapore | 4.6
+Dr. Siddhant Jain | Neurologist | Nungambakkam | 4.4
+Dr. Rani Menon | Gynecologist | Alwarpet | 4.7
+Dr. Praveen Kumar | Pulmonologist | Chromepet | 4.5
+Dr. Snehalatha Iyer | General Practitioner | Tambaram | 4.6
+Dr. Manish Sharma | Cardiologist | Egmore | 4.8
+Dr. Deepa Nair | Pediatrician | Kilpauk | 4.4
+Dr. Rohini Das | Orthopedist | Guindy | 4.7
+Dr. Anil Menon | Urologist | Porur | 4.5
+Dr. Shanti Ravi | General Practitioner | Saidapet | 4.6
+Dr. Vikram Rao | ENT Specialist | Ashok Nagar | 4.4
+Dr. Priya Anand | Dermatologist | Madipakkam | 4.7
+Dr. Sunil Kumar | Gastroenterologist | Kotturpuram | 4.5
+Dr. Megha Seth | General Practitioner | Thiruvanmiyur | 4.6
+Dr. Ravi Menon | Ophthalmologist | Vadapalani | 4.4
+Dr. Sonia Reddy | Gynecologist | Pallikaranai | 4.7
+Dr. Arun Gupta | Pulmonologist | Sholinganallur | 4.5
+Dr. Nisha Sharma | General Practitioner | Ambattur | 4.6
+Dr. Kiran Raj | Cardiologist | Royapettah | 4.8
+Dr. Preeti Menon | Pediatrician | Purasawalkam | 4.4
+Dr. Sanjay Nair | Orthopedist | OMR (Old Mahabalipuram Road) | 4.7
+Dr. Latha Devi | ENT Specialist | Medavakkam | 4.5
+Dr. Vinay Kumar | General Practitioner | Kodambakkam | 4.6
+Dr. Anu Priya | Dermatologist | Chetpet | 4.4
+Dr. Rahul Sharma | Neurologist | Adyar | 4.7
+Dr. Shoba Iyer | Gynecologist | T. Nagar | 4.5
+Dr. Manoj Nair | Pulmonologist | Anna Nagar | 4.6
+Dr. Tara Menon | General Practitioner | Velachery | 4.4
+Dr. Amit Reddy | Cardiologist | Mylapore | 4.8
+Dr. Suman Nair | Pediatrician | Nungambakkam | 4.5
+Dr. Vivek Seth | Orthopedist | Alwarpet | 4.7

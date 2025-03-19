@@ -1,0 +1,7 @@
+streamlit
+boto3
+langchain
+langchain-core
+langchain-aws
+langchain-text-splitters
+python-dotenv
