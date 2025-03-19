@@ -32,8 +32,8 @@ MedGPT is a conversational AI assistant built on AWS Bedrock and LangChain that 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/medgpt.git
-cd medgpt
+git clone https://github.com/PrabhasMahanti123/MedGPT.git
+cd MedGPT
 ```
 
 2. Create and activate a virtual environment:
@@ -83,7 +83,7 @@ streamlit run app.py
 ## Project Structure
 
 ```
-medgpt/
+MedGPT/
 ├── app.py                  # Main Streamlit application
 ├── knowledge_base.txt      # Medical knowledge database
 ├── doctor_list.txt         # List of doctors with locations and ratings
@@ -107,20 +107,6 @@ The application supports the following models:
 - **Model Parameters**: Adjust temperature, max tokens, and top_p in the code
 - **Chunk Size**: Control how the knowledge base is split for retrieval
 - **Prompt Template**: Modify the conversation flow in the PROMPT_TEMPLATE variable
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch: `git checkout -b feature/amazing-feature`
-3. Commit your changes: `git commit -m 'Add some amazing feature'`
-4. Push to the branch: `git push origin feature/amazing-feature`
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
