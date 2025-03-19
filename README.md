@@ -9,8 +9,6 @@
 
 MedGPT is a conversational AI assistant built on AWS Bedrock and LangChain that helps users analyze their medical symptoms and recommends nearby doctors in Chennai. The application uses a step-by-step conversational approach to understand symptoms, provides information about potential causes, and suggests appropriate medical professionals.
 
-![MedGPT Screenshot](https://user-images.githubusercontent.com/yourUsername/your-repo/assets/screenshot.png)
-
 ## Features
 
 - 🩺 **Symptom Analysis**: Conversational AI that asks targeted questions to understand user symptoms
